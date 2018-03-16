@@ -12,7 +12,10 @@ public class App
 {
     public static void main( String[] args )    {
        SpringApplication.run(App.class, args);
+<<<<<<< HEAD
        //Vale chetos
+=======
+>>>>>>> branch 'master' of https://github.com/CastleIpsra/ws-example.git
        
     }
     
