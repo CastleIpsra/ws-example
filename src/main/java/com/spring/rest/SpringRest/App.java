@@ -10,16 +10,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class App 
 {
-    public static void main( String[] args )
-    {
+    public static void main( String[] args )    {
        SpringApplication.run(App.class, args);
-       //umta maquina vale chetos
-       //hola amigo
-       //hay una nueva versión 1.0.1_2
-       //no lo se
-       //otro no se   2.10.2.203.  
+       //Vale chetos
+       
     }
-    //hola isra saca las chelas
-    //Nel Gama     
-    /// holaaaaaaaaaaaaaaaa
+    
 }
