@@ -15,5 +15,6 @@ public class App
        SpringApplication.run(App.class, args);
        //umta maquina vale chetos
        //hola amigo
+       //hay una nueva versión 1.0.1_2
     }
 }
