@@ -17,6 +17,7 @@ public class App
        //hola amigo
        //hay una nueva versión 1.0.1_2
        //no lo se
-       //otro no se   2.10.2.203.
+       //otro no se   2.10.2.203.  
     }
+    //hola isra saca las chelas
 }
